@@ -1,6 +1,11 @@
+import { MenuBar } from "components/common/menu-bar/menu-bar";
+
 function App() {
   return (
-    <h1>Hello</h1>
+    <>
+      <MenuBar/>
+      
+    </>
   );
 }
 export default App;
